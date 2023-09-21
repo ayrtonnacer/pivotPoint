@@ -21,8 +21,8 @@ import mplfinance as mpf
 import pandas as pd
 from datetime import datetime
 
-# Se define el símbolo del ticker (en este caso, BTC-USD).
-t = "BTC-USD"
+# Se define el símbolo del ticker (en este caso, AAPL).
+t = "AAPL"
 ticker = yf.Ticker(t)
 
 # Se obtiene el historial de precios
