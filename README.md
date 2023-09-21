@@ -2,7 +2,7 @@
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-Este proyecto se centra en el cálculo de puntos de pivote (Pivot Points) en el mercado financiero utilizando Python. Los puntos de pivote son niveles significativos en el gráfico de cotizaciones que actúan como indicadores de soporte y resistencia. Estos niveles se calculan a partir de los máximos, mínimos y cierres del período anterior y se utilizan para estimar los futuros niveles de soporte y resistencia.
+Este proyecto se centra en el cálculo de puntos de pivote (Pivot Points) en el mercado financiero utilizando Python. Los puntos de pivote son un indicador técnico que los operadores utilizan para predecir las próximas zonas de alta probabilidad de compra o venta. Estos niveles se calculan a partir de los máximos, mínimos y cierres del período anterior y se utilizan para estimar los futuros niveles de soporte y resistencia.
 
 ## Descripción
 
